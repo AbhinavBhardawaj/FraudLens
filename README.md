@@ -28,3 +28,9 @@ It combines a powerful machine learning model with a Django backend to provide f
 - **Serialization**: `joblib` / `pickle`
 - **API Format**: JSON
 - **Database**: SQLite (for development; pluggable)
+
+## 📸 Working
+
+<video src="Working.mp4" controls width="600"></video>
+
+
