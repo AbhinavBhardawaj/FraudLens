@@ -31,7 +31,8 @@ It combines a powerful machine learning model with a Django backend to provide f
 
 ## 📸 Working
 
-<video src="working/Working.mp4" width="600" controls></video>
+[Watch Demo Video](working/Working.mp4)
+
 
 
 
