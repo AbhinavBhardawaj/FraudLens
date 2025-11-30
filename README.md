@@ -31,7 +31,7 @@ It combines a powerful machine learning model with a Django backend to provide f
 
 ## 📸 Working
 
-[Watch Demo Video](working/Working.mp4)
+https://github.com/user-attachments/assets/669f1121-6524-4148-bd84-a22c19096f5c
 
 
 
